@@ -1,0 +1,12 @@
+[BUG]: no found input ".main_app"
+
+## Command Line
+C:\Users\ahmet\Workspace\pyarmor-isolation-test\.venv\Scripts\pyarmor gen --no-wrap --enable-jit --use-runtime resources/pyarmor_runtime -r .main_app
+
+## Environments
+Python 3.12.8
+Pyarmor 9.1.8 (trial), 000000, non-profits
+Platform windows.x86_64
+Native windows.amd64
+Home C:\Users\ahmet\.pyarmor
+
